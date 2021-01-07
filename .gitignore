@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/walker
+walker.so
+walker.dylib
+walker.dll
+walker.a
+walker.lib
+walker-test-*
+*.exe
+*.o
+*.obj
+*.lst
