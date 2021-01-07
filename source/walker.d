@@ -234,13 +234,11 @@ unittest
         DirEntry( r".\a", [
         DirEntry( r".\a\a1", [] ), 
         DirEntry( r".\a\a2", [] ), 
-        DirEntry( r".\a\a3", [] ), 
-        ] ), 
+        DirEntry( r".\a\a3", [] ), ] ), 
         DirEntry( r".\b", [
         DirEntry( r".\b\b1", [] ), 
         DirEntry( r".\b\b2", [] ), 
-        DirEntry( r".\b\b3", [] ), 
-        ] ), 
+        DirEntry( r".\b\b3", [] ), ] ), 
         DirEntry( r".\c", [
         DirEntry( r".\c\c1", [] ), 
         DirEntry( r".\c\c2", [] ), 
